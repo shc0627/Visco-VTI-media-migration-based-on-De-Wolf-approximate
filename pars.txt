@@ -1,0 +1,15 @@
+nz=220
+nx=600
+dz=8
+dx=12
+sx=300
+sz=0
+nt=1701
+dt=0.001
+fmax=20
+pxl=100
+pxr=100
+maxtrace=600
+ns=1
+ds=15
+np=1
